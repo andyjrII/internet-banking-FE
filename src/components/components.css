@@ -1,0 +1,21 @@
+#brandlogo {
+    margin-right: 100px;
+}
+
+.nav-menu {
+    margin: 0 30px;
+}
+
+.login, .register {
+    float: right;
+    position:relative;
+    top: 50px;
+ }
+
+ .create-account {
+    float: right;
+ }
+
+.create-account label, .create-account span {
+  font-size: 13px;
+}
